@@ -1,4 +1,4 @@
-# Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Prawin Sankar
+# Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Prawin Sankar
 
 I am an Undergrad student working currently in multiple domains. 
 
