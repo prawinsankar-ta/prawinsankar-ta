@@ -1,6 +1,6 @@
 # Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Prawin Sankar
 
-I am an Undergrad student working currently in multiple domains. 
+I am a graduate student working currently in multiple domains. 
 
 Robotics, AI, IoT, AR and VR are some areas, I have been working on and it gives me the freedom to be creative and have fun while learning a lot at the same time. I love meeting new people across a diverse range of fields and strongly believe in working coherently as a team to find interdisciplinary and unconventional solutions to problems existing.
 
