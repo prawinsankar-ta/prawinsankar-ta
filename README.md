@@ -1,6 +1,6 @@
 <!-- # Hi!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Prawin Sankar-->
  
-<h1 align="center">Hi I'm Prawin Sankar 👋 <br> I'm a Roboticist Researcher🤖 </h1>
+<h1 align="center">Hi I'm Prawin Sankar 👋 <br> I'm a Robotics Researcher🤖 </h1>
 <!-- <h2 align="center">My corner on the internet: <a href="https://">.com</a> 🌎 </h2>`-->
 
 <p align="center">I am a graduate student working currently in domains of Robotics, AI, IoT, Extended reality(XR), through which I enjoy the freedom to be creative and have fun while learning a lot at the same time. I love meeting new people across a diverse range of fields and strongly believe in working coherently as a team to find interdisciplinary and unconventional solutions to problems existing.
