@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prawin Sankar 👋<br>Robotics Researcher 🤖</h1>
 
 <p align="center">
-I’m a graduate researcher exploring Robotics, AI, IoT, and Extended Reality (XR). I thrive in interdisciplinary collaborations, love creative problem-solving, and enjoy building innovative solutions for real-world challenges.
+I’m a graduate researcher exploring AI withing applications of Robotics, IoT, and Extended Reality(XR). I thrive in interdisciplinary collaborations, love creative problem-solving, and enjoy building innovative solutions for real-world challenges.
 </p>
 
 ---
