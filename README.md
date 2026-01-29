@@ -1,102 +1,111 @@
-<h1 align="center">
-Hi, I'm Prawin Sankar 👋 <br>
-Robotics & AI Engineer | GenAI • Autonomous Systems • Agentic AI 🤖🧠
-</h1>
+<div align="center">
 
-<p align="center">
-I am a Robotics & AI Engineer with hands-on experience building <b>autonomous robotic systems</b>, 
-<b>ML-driven perception pipelines</b>, and <b>GenAI-powered agentic workflows</b>.
-<br><br>
-My work spans vision-based navigation for aerial robots, deep learning systems from data to deployment,
-and cloud-native AI solutions for real-world applications. I enjoy working at the intersection of
-<b>AI systems, robotics autonomy, and scalable deployment</b>.
-</p>
+# 👋 Hi, I'm Prawin Sankar
+
+### Robotics & AI Engineer | GenAI • Autonomous Systems • Agentic AI
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/prawinsankar_ta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prawin-sankar-ta/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:prawinta.sankar@gmail.com)
+
+</div>
 
 ---
 
-### 🌐 **Connect with Me**
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://twitter.com/prawinsankar_ta">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prawin-sankar-ta/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:prawinta.sankar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I'm a **Robotics & AI Engineer** specializing in autonomous systems, perception pipelines, and GenAI-powered solutions. My work bridges the gap between cutting-edge research and real-world deployment, focusing on:
+
+- 🤖 **Autonomous Navigation** in GPS-denied & constrained environments
+- 👁️ **Vision-based Perception** (VIO, SLAM, object detection)
+- 🧠 **GenAI & Agentic AI** workflows for enterprise automation
+- ☁️ **End-to-end ML pipelines** with cloud-native deployment
+- 🧪 **Sim-to-Real** validation (SITL, Gazebo, Isaac Sim)
 
 ---
 
-### 🔬 **Current Focus Areas**
-- 🤖 Autonomous navigation in GPS-denied & constrained environments  
-- 👁️ Vision-based perception (VIO, SLAM, object detection)  
-- 🧠 GenAI & Agentic AI workflows for enterprise automation  
-- ☁️ End-to-end ML pipelines and deployment on AWS  
-- 🧪 Simulation-to-real validation (SITL, Gazebo, Isaac Sim)
+## 🛠️ Technical Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Robotics & Autonomy
+- **Frameworks:** ROS / ROS2, PX4, ArduPilot
+- **Core Skills:** Motion Planning, Control, Sensor Fusion
+- **Simulation:** Gazebo, NVIDIA Isaac Sim, SITL
+
+### 👁️ Computer Vision & ML
+- **Libraries:** OpenCV, YOLOv5, TensorFlow, PyTorch
+- **Sensors:** RGB-D, LiDAR, Visual-Inertial Systems
+- **ML Ops:** Model training, optimization, deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 GenAI & Agentic Systems
+- LLM-powered chatbots & voicebots
+- Agentic workflows for task automation
+- REST API–driven AI integrations
+
+### ☁️ Cloud & DevOps
+- **Platforms:** AWS (EC2, S3, Lambda, SageMaker)
+- **Tools:** Docker, Git, CI/CD pipelines
+- **Focus:** Scalable ML deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ **Tech Stack**
+## 💼 Featured Projects
 
-**🤖 Robotics & Autonomy**
-- ROS / ROS2, PX4, Ardupilot  
-- Motion Planning, Control, Sensor Fusion  
-- Gazebo, NVIDIA Isaac Sim, SITL  
-
-**👁️ Computer Vision & Machine Learning**
-- OpenCV, YOLOv5  
-- TensorFlow, PyTorch, Scikit-learn  
-- RGB-D, LiDAR, Visual-Inertial systems  
-
-**🧠 GenAI & Agentic Systems**
-- LLM-powered chatbots & voicebots  
-- Agentic workflows for task automation  
-- REST API–driven AI integrations  
-
-**☁️ Cloud & MLOps**
-- AWS, Docker, Git  
-- Model training → inference → deployment pipelines  
-
----
-
-### 🚀 **Featured Projects**
-
-**🛩️ Autonomous Quadcopters for Warehouse Inventory**  
+### 🛩️ Autonomous Quadcopters for Warehouse Inventory
 Vision-based drone system for automated inventory audits using ROS and OpenCV.  
-*Tech:* ROS, Python, OpenCV, Simulation + Real-world deployment
+**Tech Stack:** ROS, Python, OpenCV | Simulation + Real-world deployment
 
-**🧠 Agentic AI Workflows for Enterprise Automation**  
-Designed ML-driven and LLM-based agent workflows for automating business processes.  
-*Tech:* Python, AWS, REST APIs, LLMs
+### 🧠 Agentic AI Workflows for Enterprise Automation
+ML-driven and LLM-based agent workflows automating complex business processes.  
+**Tech Stack:** Python, AWS, REST APIs, LLMs
 
-**👓 XR-based AI Yoga & Training Platform**  
-Virtual reality–based AI tutoring system for guided yoga and exercise.  
-*Tech:* Unity3D, XR, Computer Vision
-
----
-
-### 📄 **Research & Publications**
-- Autonomous and robotic system design (ICACCS, STCR, Journal of Critical Reviews)  
-- AR/VR-based education and training systems  
-- Robotics system modeling, control, and perception  
+### 👓 XR-based AI Yoga & Training Platform
+Virtual reality AI tutoring system for guided yoga and exercise with real-time feedback.  
+**Tech Stack:** Unity3D, XR, Computer Vision
 
 ---
 
-### 📊 **GitHub Stats**
+## 📚 Research & Publications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prawinsankar-ta&show_icons=true&theme=radical" />
-</p>
+- **Autonomous and Robotic Systems** — ICACCS, STCR, Journal of Critical Reviews
+- **AR/VR-based Education** — Training systems and interactive learning
+- **Robotics Systems** — Modeling, control, and perception
 
 ---
 
-### 🤝 **Let’s Collaborate**
-I’m always excited to collaborate on projects involving:
-- Robotics & Autonomous Systems  
-- GenAI / Agentic AI  
-- Applied Machine Learning & Perception  
+## 📊 GitHub Analytics
 
-Feel free to reach out — happy to learn, build, and share ideas!
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prawinsankar-ta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prawinsankar-ta&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Build Together
+
+I'm always open to collaborating on:
+- 🤖 Robotics & Autonomous Systems
+- 🧠 GenAI / Agentic AI Applications
+- 🎯 Applied Machine Learning & Perception
+
+**📬 Reach out** — I'm happy to learn, build, and share ideas!
+
+<div align="center">
+
+*"Making robots smarter, one algorithm at a time."* 🚀
+
+</div>
